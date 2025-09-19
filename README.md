@@ -6,7 +6,8 @@
 
 **Game Olympus** combines sophisticated relationship mechanics with dynamic AI-generated content to create personalized mythological narratives. Players make choices that affect divine relationships, unlock story branches, and shape their path through a world where ancient gods operate in contemporary settings.
 
-For complete game mechanics and flow details, see [Game Details](gameolympus.md).
+For complete game mechanics and flow details, see [Game Details](game_olympus.md).
+Full GDD (Game Design Document) at [Game Design Document](game_olympus_gdd.md).
 
 ## Technical Stack
 
@@ -69,10 +70,7 @@ cd GameOlympus
 
 ## Development Phases
 
-**Sprint 1**: Trailer, core systems + basic dialogue flow
-**Sprint 2**: Redis integration + relationship tracking
-**Sprint 3**: Apify content generation + BrightData validation
-**Sprint 4**: Minimax voices + Winter Comics assets + polish
+Trailer, core systems + basic dialogue flow >>> Redis integration + relationship tracking >>> Apify content generation + BrightData validation >>> Minimax voices + Winter Comics assets + polish
 
 ## Build Targets
 
@@ -98,4 +96,4 @@ cd GameOlympus
 
 ---
 
-Read [Game Details](gameolympus.md) then follow the setup guide above.
+Read [Game Details](game_olympus.md) then follow the setup guide above.
